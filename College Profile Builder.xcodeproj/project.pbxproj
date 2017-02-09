@@ -13,6 +13,7 @@
 		2652097E1E4B87D100F194EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2652097C1E4B87D100F194EC /* Main.storyboard */; };
 		265209801E4B87D100F194EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2652097F1E4B87D100F194EC /* Assets.xcassets */; };
 		265209831E4B87D100F194EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 265209811E4B87D100F194EC /* LaunchScreen.storyboard */; };
+		2652098B1E4B8A9C00F194EC /* College.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2652098A1E4B8A9C00F194EC /* College.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2652097F1E4B87D100F194EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		265209821E4B87D100F194EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		265209841E4B87D100F194EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2652098A1E4B8A9C00F194EC /* College.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = College.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				265209781E4B87D100F194EC /* MasterViewController.swift */,
 				2652097A1E4B87D100F194EC /* DetailViewController.swift */,
 				2652097C1E4B87D100F194EC /* Main.storyboard */,
+				2652098A1E4B8A9C00F194EC /* College.swift */,
 				2652097F1E4B87D100F194EC /* Assets.xcassets */,
 				265209811E4B87D100F194EC /* LaunchScreen.storyboard */,
 				265209841E4B87D100F194EC /* Info.plist */,
@@ -142,6 +145,7 @@
 				2652097B1E4B87D100F194EC /* DetailViewController.swift in Sources */,
 				265209791E4B87D100F194EC /* MasterViewController.swift in Sources */,
 				265209771E4B87D100F194EC /* AppDelegate.swift in Sources */,
+				2652098B1E4B8A9C00F194EC /* College.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
